@@ -1,3 +1,3 @@
-# Glitch
+# Flask resume template
 
-Esse é um reposítório referente ao meu Portfólio hospedado no site glicth. 
+A simple Flask resume template based on <https://startbootstrap.com/themes/resume/>.
